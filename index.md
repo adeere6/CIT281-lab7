@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Lab goals and outcomes:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-lab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Part 1: Create your own GitHub organization for the CIT Minor
+- Part 2: Create your first GitHub repository
+- Part 3: Clone your GitHub repository to your local system
+- Part 4: Create lab JavaScript file, and initialize folder as a Node.js folder
+- Part 5: Update and commit lab JavaScript file to practice with error handling
+- Part 6: Push your changes to GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I learned:
 
-### Markdown
+In this lab we learned how to create a github organization for the CIT minor. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/83984264/120868210-5f2c7b80-c548-11eb-8fe3-3184b00fa971.png)
 
-```markdown
-Syntax highlighted code block
+We also learned how to make git repositorys and how to clone our repository to a local system like terminal. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-lab7/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/83984264/120868460-f85b9200-c548-11eb-83be-dc064f3fe1d9.png)
